@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "564613750841",
+    "project_id": "cafem-m",
+    "storage_bucket": "cafem-m.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564613750841:android:6bf4f2d9b5e23949e5ede8",
+        "android_client_info": {
+          "package_name": "com.example.cafemm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564613750841-61ojogd7j7n19j81806v6bh0m4u542rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafemm",
+            "certificate_hash": "5c7e0c09e9e0a809128368625e8ebd773efdc82a"
+          }
+        },
+        {
+          "client_id": "564613750841-4nj606fditgg3urc5rllvk9kadv63prn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFT3OLJYW7A7P_ucRVrmrGlpflafnK9E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564613750841-4nj606fditgg3urc5rllvk9kadv63prn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
